@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>טיפות - 24 הבוטים שלך</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      direction: rtl;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    header {
+      background-color: #2c3e50;
+      color: #fff;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav {
+      background-color: #34495e;
+      overflow-x: auto;
+      white-space: nowrap;
+    }
+    nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0.5rem;
+    }
+    nav li {
+      display: inline;
+      margin: 0 1rem;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    main {
+      padding: 1rem;
+    }
+    section {
+      background-color: #fff;
+      margin-bottom: 1rem;
+      padding: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    }
+    section h2 {
+      margin-top: 0;
+    }
+    footer {
+      background-color: #2c3e50;
+      color: #fff;
+      text-align: center;
+      padding: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>טיפות - 24 הבוטים שלך</h1>
+    <p>ייעוץ מותאם אישית לפי טיפת הצבע שלך</p>
+  </header>
+
+  <nav>
+    <ul>
+      <!-- Navigation links for each bot. The list is ordered from bot 24 down to bot 1 -->
+      <li><a href="#bot24">טיפה 24</a></li>
+      <li><a href="#bot23">טיפה 23</a></li>
+      <li><a href="#bot22">טיפה 22</a></li>
+      <li><a href="#bot21">טיפה 21</a></li>
+      <li><a href="#bot20">טיפה 20</a></li>
+      <li><a href="#bot19">טיפה 19</a></li>
+      <li><a href="#bot18">טיפה 18</a></li>
+      <li><a href="#bot17">טיפה 17</a></li>
+      <li><a href="#bot16">טיפה 16</a></li>
+      <li><a href="#bot15">טיפה 15</a></li>
+      <li><a href="#bot14">טיפה 14</a></li>
+      <li><a href="#bot13">טיפה 13</a></li>
+      <li><a href="#bot12">טיפה 12</a></li>
+      <li><a href="#bot11">טיפה 11</a></li>
+      <li><a href="#bot10">טיפה 10</a></li>
+      <li><a href="#bot9">טיפה 9</a></li>
+      <li><a href="#bot8">טיפה 8</a></li>
+      <li><a href="#bot7">טיפה 7</a></li>
+      <li><a href="#bot6">טיפה 6</a></li>
+      <li><a href="#bot5">טיפה 5</a></li>
+      <li><a href="#bot4">טיפה 4</a></li>
+      <li><a href="#bot3">טיפה 3</a></li>
+      <li><a href="#bot2">טיפה 2</a></li>
+      <li><a href="#bot1">טיפה 1</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <!-- Each section represents one bot. Customize each section with your content. -->
+    <section id="bot1">
+      <h2>טיפה 1 (סגול למעלה, צהוב למטה)</h2>
+      <p>תיאור קצר: בוט יעוץ המספק תובנות אישיות בהתבסס על טיפה 1. כאן תופיע תוכן מותאם אישית, קישורים לסרטונים והסברים נוספים.</p>
+      <!-- Example embed video -->
+      <div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id" 
+                title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen></iframe>
+      </div>
+      <!-- Add additional links or interactive content as needed -->
+    </section>
+
+    <section id="bot2">
+      <h2>טיפה 2</h2>
+      <p>תיאור קצר עבור טיפה 2. כאן תופיע תוכן מותאם אישית, קישורים לסרטונים והסברים נוספים.</p>
+    </section>
+
+    <!-- Continue adding sections for bots 3 to 23 in similar manner -->
+    
+    <section id="bot24">
+      <h2>טיפה 24</h2>
+      <p>תיאור קצר עבור טיפה 24. כאן תופיע תוכן מותאם אישית, קישורים לסרטונים והסברים נוספים.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 טיפות. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
